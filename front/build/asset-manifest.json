@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4998db1d.css",
+    "main.js": "/static/js/main.310e7e9d.js",
+    "static/js/787.71df535f.chunk.js": "/static/js/787.71df535f.chunk.js",
+    "static/media/mountain.jpg": "/static/media/mountain.c05e7b3d5a18ef6a5138.jpg",
+    "static/media/cake.jpeg": "/static/media/cake.8564b60da3fe66ab7c03.jpeg",
+    "static/media/desc_image1.jpg": "/static/media/desc_image1.856600dab7820e2bc04c.jpg",
+    "static/media/desc_image2.jpg": "/static/media/desc_image2.e5eb58898d04b7de7fa2.jpg",
+    "static/media/manage.png": "/static/media/manage.03337533e5a1583542d6.png",
+    "static/media/chat.png": "/static/media/chat.fd77d68b74d95c5156a7.png",
+    "static/media/timestamp.png": "/static/media/timestamp.dcc21cd3e2100fedb4ee.png",
+    "static/media/shift.png": "/static/media/shift.7e9ffe50c392704f47df.png",
+    "static/media/calendar.png": "/static/media/calendar.55972a91161b063033e6.png",
+    "static/media/employees.png": "/static/media/employees.5be65f005e46c5fdbf18.png",
+    "static/media/icon.png": "/static/media/icon.5ab6a3e6f00efcdd700b.png",
+    "static/media/employee-default.jpg": "/static/media/employee-default.b7d713afd6ab303ac8d2.jpg",
+    "static/media/offices-buildings-svgrepo-com.svg": "/static/media/offices-buildings-svgrepo-com.0925bf23da01872f3e1fb53e6ca07e03.svg",
+    "index.html": "/index.html",
+    "main.4998db1d.css.map": "/static/css/main.4998db1d.css.map",
+    "main.310e7e9d.js.map": "/static/js/main.310e7e9d.js.map",
+    "787.71df535f.chunk.js.map": "/static/js/787.71df535f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4998db1d.css",
+    "static/js/main.310e7e9d.js"
+  ]
+}
